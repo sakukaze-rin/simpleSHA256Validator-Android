@@ -1,3 +1,4 @@
 # simpleSHA256Validator-Android
 A simple SHA256 Validator for Android Device，by vibe coding(Gemini)
-![Uploading simple.jpg…]()
+## App 截图
+![SHA256 Validator Screenshot](simple.jpg)
